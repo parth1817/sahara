@@ -41,7 +41,7 @@ h1 {
     background: transparent;
     border: 1px solid white;
     color: white;
-    transition: 0.3s color ease;
+    transition: 0.5s color ease;
 }
 
 .btn:hover {
